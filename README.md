@@ -1,6 +1,7 @@
 - 👋 Hi, I’m SynthSlayer (@Yaghrujhu everywhere else)
 - 👀 I’m interested in engineering and IT
-- 🌱 I’m currently learning to program
+- I enjoy using:
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-F8F9FA?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
 - 📫 How to reach me:
   - Discord: @Yaghrujhu
 - 😄 Pronouns: he/him
